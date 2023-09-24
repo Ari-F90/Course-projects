@@ -1,0 +1,5 @@
+/Users/ariadna/Desktop/C# projects/Projects/Ex1/obj/Debug/net6.0/Intro-C.csproj.AssemblyReference.cache
+/Users/ariadna/Desktop/C# projects/Projects/Ex1/obj/Debug/net6.0/Intro-C.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ariadna/Desktop/C# projects/Projects/Ex1/obj/Debug/net6.0/Intro-C.AssemblyInfoInputs.cache
+/Users/ariadna/Desktop/C# projects/Projects/Ex1/obj/Debug/net6.0/Intro-C.AssemblyInfo.cs
+/Users/ariadna/Desktop/C# projects/Projects/Ex1/obj/Debug/net6.0/Intro-C.csproj.CoreCompileInputs.cache

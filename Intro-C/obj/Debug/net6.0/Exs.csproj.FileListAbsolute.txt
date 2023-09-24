@@ -1,0 +1,15 @@
+/Users/ariadna/Desktop/C# projects/Projects/Ex1/bin/Debug/net6.0/Exs
+/Users/ariadna/Desktop/C# projects/Projects/Ex1/bin/Debug/net6.0/Exs.deps.json
+/Users/ariadna/Desktop/C# projects/Projects/Ex1/bin/Debug/net6.0/Exs.runtimeconfig.json
+/Users/ariadna/Desktop/C# projects/Projects/Ex1/bin/Debug/net6.0/Exs.dll
+/Users/ariadna/Desktop/C# projects/Projects/Ex1/bin/Debug/net6.0/Exs.pdb
+/Users/ariadna/Desktop/C# projects/Projects/Ex1/obj/Debug/net6.0/Exs.csproj.AssemblyReference.cache
+/Users/ariadna/Desktop/C# projects/Projects/Ex1/obj/Debug/net6.0/Exs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ariadna/Desktop/C# projects/Projects/Ex1/obj/Debug/net6.0/Exs.AssemblyInfoInputs.cache
+/Users/ariadna/Desktop/C# projects/Projects/Ex1/obj/Debug/net6.0/Exs.AssemblyInfo.cs
+/Users/ariadna/Desktop/C# projects/Projects/Ex1/obj/Debug/net6.0/Exs.csproj.CoreCompileInputs.cache
+/Users/ariadna/Desktop/C# projects/Projects/Ex1/obj/Debug/net6.0/Exs.dll
+/Users/ariadna/Desktop/C# projects/Projects/Ex1/obj/Debug/net6.0/refint/Exs.dll
+/Users/ariadna/Desktop/C# projects/Projects/Ex1/obj/Debug/net6.0/Exs.pdb
+/Users/ariadna/Desktop/C# projects/Projects/Ex1/obj/Debug/net6.0/Exs.genruntimeconfig.cache
+/Users/ariadna/Desktop/C# projects/Projects/Ex1/obj/Debug/net6.0/ref/Exs.dll
