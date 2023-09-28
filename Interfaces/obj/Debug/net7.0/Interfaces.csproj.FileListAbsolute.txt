@@ -1,0 +1,5 @@
+/Users/ariadna/Desktop/C# projects/Projects/Interfaces/obj/Debug/net7.0/Interfaces.csproj.AssemblyReference.cache
+/Users/ariadna/Desktop/C# projects/Projects/Interfaces/obj/Debug/net7.0/Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ariadna/Desktop/C# projects/Projects/Interfaces/obj/Debug/net7.0/Interfaces.AssemblyInfoInputs.cache
+/Users/ariadna/Desktop/C# projects/Projects/Interfaces/obj/Debug/net7.0/Interfaces.AssemblyInfo.cs
+/Users/ariadna/Desktop/C# projects/Projects/Interfaces/obj/Debug/net7.0/Interfaces.csproj.CoreCompileInputs.cache
