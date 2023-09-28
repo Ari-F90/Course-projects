@@ -1,0 +1,15 @@
+/Users/ariadna/Desktop/C# projects/Projects/Classes/Classes5/bin/Debug/net7.0/Classes5
+/Users/ariadna/Desktop/C# projects/Projects/Classes/Classes5/bin/Debug/net7.0/Classes5.deps.json
+/Users/ariadna/Desktop/C# projects/Projects/Classes/Classes5/bin/Debug/net7.0/Classes5.runtimeconfig.json
+/Users/ariadna/Desktop/C# projects/Projects/Classes/Classes5/bin/Debug/net7.0/Classes5.dll
+/Users/ariadna/Desktop/C# projects/Projects/Classes/Classes5/bin/Debug/net7.0/Classes5.pdb
+/Users/ariadna/Desktop/C# projects/Projects/Classes/Classes5/obj/Debug/net7.0/Classes5.csproj.AssemblyReference.cache
+/Users/ariadna/Desktop/C# projects/Projects/Classes/Classes5/obj/Debug/net7.0/Classes5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ariadna/Desktop/C# projects/Projects/Classes/Classes5/obj/Debug/net7.0/Classes5.AssemblyInfoInputs.cache
+/Users/ariadna/Desktop/C# projects/Projects/Classes/Classes5/obj/Debug/net7.0/Classes5.AssemblyInfo.cs
+/Users/ariadna/Desktop/C# projects/Projects/Classes/Classes5/obj/Debug/net7.0/Classes5.csproj.CoreCompileInputs.cache
+/Users/ariadna/Desktop/C# projects/Projects/Classes/Classes5/obj/Debug/net7.0/Classes5.dll
+/Users/ariadna/Desktop/C# projects/Projects/Classes/Classes5/obj/Debug/net7.0/refint/Classes5.dll
+/Users/ariadna/Desktop/C# projects/Projects/Classes/Classes5/obj/Debug/net7.0/Classes5.pdb
+/Users/ariadna/Desktop/C# projects/Projects/Classes/Classes5/obj/Debug/net7.0/Classes5.genruntimeconfig.cache
+/Users/ariadna/Desktop/C# projects/Projects/Classes/Classes5/obj/Debug/net7.0/ref/Classes5.dll
