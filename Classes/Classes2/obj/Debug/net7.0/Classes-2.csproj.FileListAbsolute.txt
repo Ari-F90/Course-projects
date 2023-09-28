@@ -1,0 +1,15 @@
+/Users/ariadna/Desktop/C# projects/Projects/Classes/Classes-2/bin/Debug/net7.0/Classes-2
+/Users/ariadna/Desktop/C# projects/Projects/Classes/Classes-2/bin/Debug/net7.0/Classes-2.deps.json
+/Users/ariadna/Desktop/C# projects/Projects/Classes/Classes-2/bin/Debug/net7.0/Classes-2.runtimeconfig.json
+/Users/ariadna/Desktop/C# projects/Projects/Classes/Classes-2/bin/Debug/net7.0/Classes-2.dll
+/Users/ariadna/Desktop/C# projects/Projects/Classes/Classes-2/bin/Debug/net7.0/Classes-2.pdb
+/Users/ariadna/Desktop/C# projects/Projects/Classes/Classes-2/obj/Debug/net7.0/Classes-2.csproj.AssemblyReference.cache
+/Users/ariadna/Desktop/C# projects/Projects/Classes/Classes-2/obj/Debug/net7.0/Classes-2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ariadna/Desktop/C# projects/Projects/Classes/Classes-2/obj/Debug/net7.0/Classes-2.AssemblyInfoInputs.cache
+/Users/ariadna/Desktop/C# projects/Projects/Classes/Classes-2/obj/Debug/net7.0/Classes-2.AssemblyInfo.cs
+/Users/ariadna/Desktop/C# projects/Projects/Classes/Classes-2/obj/Debug/net7.0/Classes-2.csproj.CoreCompileInputs.cache
+/Users/ariadna/Desktop/C# projects/Projects/Classes/Classes-2/obj/Debug/net7.0/Classes-2.dll
+/Users/ariadna/Desktop/C# projects/Projects/Classes/Classes-2/obj/Debug/net7.0/refint/Classes-2.dll
+/Users/ariadna/Desktop/C# projects/Projects/Classes/Classes-2/obj/Debug/net7.0/Classes-2.pdb
+/Users/ariadna/Desktop/C# projects/Projects/Classes/Classes-2/obj/Debug/net7.0/Classes-2.genruntimeconfig.cache
+/Users/ariadna/Desktop/C# projects/Projects/Classes/Classes-2/obj/Debug/net7.0/ref/Classes-2.dll

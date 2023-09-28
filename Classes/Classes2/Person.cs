@@ -1,5 +1,5 @@
 
-namespace Classes
+namespace Classes2
 {
   public class Person
 {
@@ -7,5 +7,3 @@ namespace Classes
   public int Age {get; set;}
 }
 }
-
-
