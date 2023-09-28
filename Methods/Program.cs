@@ -13,7 +13,7 @@ Console.WriteLine($"You have {dollars} dollars");*/
 
 
 // 2
-/*Console.WriteLine("Calculator");
+Console.WriteLine("Calculator");
 Console.WriteLine("1 - Sum");
 Console.WriteLine("2 - Subtraction");
 Console.WriteLine("3 - Multiplication");
@@ -63,6 +63,5 @@ static int Multiplication(int num1, int num2)
 static float Division(int num1, int num2)
 {
   return num1 / num2;
-}*/
+}
 
-3
